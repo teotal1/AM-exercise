@@ -6,5 +6,6 @@ public class AMexercise {
         System.out.println("8230050");
         System.out.println("8220141");
         System.out.println("8220044");
+        System.out.println("8220145");
     }
 }
